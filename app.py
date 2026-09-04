@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 from utils.summarizer import generate_summary
 from utils.extractor import extract_action_items
